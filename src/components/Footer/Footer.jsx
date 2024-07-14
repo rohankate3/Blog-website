@@ -4,8 +4,8 @@ import Logo from '../Logo';
 
 function Footer() {
     return (
-        <footer className="relative bottom-0 left-0 right-0 py-10 bg-[#141528] border-t-2 border-cyan-900">
-            <div className="relative z-10 mx-auto w-full px-4">
+        <footer className="relative bottom-0 left-0 right-0 py-10 bg-[#141528] border-t-2 border-cyan-900 z-10">
+            <div className="realtive mx-auto w-full px-4">
                 <div className="-m-6 flex flex-wrap">
                     <div className="w-full p-6 md:w-1/2 lg:w-5/12">
                         <div className="flex h-full flex-col justify-between">
